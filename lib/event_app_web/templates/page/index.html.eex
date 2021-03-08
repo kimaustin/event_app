@@ -1,11 +1,5 @@
-<section class="row">
-  <article class="column">
-  </article>
-  <article class="column">
-  </article>
-</section>
-
-<div>
-  <button>Register</button>
-  <button>Log in</button>
+<div class="row">
+  <div class="col">
+    Hello, World
+  </div>
 </div>

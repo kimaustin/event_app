@@ -21,7 +21,7 @@ Answer the following questions:
 
 
 5. Is your app properly deployed? If not, what went wrong?
-	No.
+	No. I also had a lot of trouble getting my repo size down to 5mb, for whatever reason.
 
 
 6. If you would like the deployment for an old homework to be reconsidered, what

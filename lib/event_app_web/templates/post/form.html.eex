@@ -1,15 +1,9 @@
-<%= form_for @changeset, @action, fn f -> %>
-  <%= if @changeset.action do %>
-    <div class="alert alert-danger">
-      <p>Oops, something went wrong! Please check the errors below.</p>
-    </div>
-  <% end %>
-
-  <%= label f, :body %>
-  <%= textarea f, :body %>
-  <%= error_tag f, :body %>
+<div class="form-group">
+    <%= label f, :body %>
+    <%= textarea f, :body, class: "form-control" %>
+    <%= error_tag f, :body %>
+  </div>
 
   <div>
-    <%= submit "Save" %>
-  </div>
-<% end %>
+    <%= submit "Save", class: "btn btn-primary" %>
+</div>

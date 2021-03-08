@@ -18,3 +18,5 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   * Docs: https://hexdocs.pm/phoenix
   * Forum: https://elixirforum.com/c/phoenix-forum
   * Source: https://github.com/phoenixframework/phoenix
+
+Most code that I have so far is from Nat Tuck's demo photo app, found here: https://github.com/NatTuck/scratch-2021-01/tree/master/4550/0305/photo_blog
